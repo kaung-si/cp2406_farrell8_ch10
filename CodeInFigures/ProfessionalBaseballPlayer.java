@@ -5,9 +5,7 @@ public class ProfessionalBaseballPlayer extends BaseballPlayer
    {
       BaseballPlayer.showOrigins();
       System.out.println("The first professional " +
-         "major league baseball game was played in 1871");
+              "major league baseball game was played in 1871");
+
    }
 }
-
-
-

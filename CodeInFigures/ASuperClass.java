@@ -4,4 +4,5 @@ public class ASuperClass
    {
       System.out.println("In superclass constructor");
    }
+
 }

@@ -4,4 +4,5 @@ public class ASubClass extends ASuperClass
    {
       System.out.println("In subclass constructor");
    }
+
 }

@@ -11,5 +11,6 @@ public class PreferredCustomer extends Customer
    {
       super.display();
       System.out.println("   Discount rate is " + discountRate);
+
    }
 }
